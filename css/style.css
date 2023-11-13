@@ -12,8 +12,8 @@ body{
 }
 
 ::selection{
-    color: #fff;
-    background: #007bff;
+    color: #FF0000;
+    background: #DC143C;
 }
 
 .start_btn,
