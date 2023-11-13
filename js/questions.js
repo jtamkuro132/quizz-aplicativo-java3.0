@@ -2,57 +2,57 @@
 let questions = [
   {
     numb: 1,
-    question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    question: "Quem é o protagonista da primeira temporada de JoJo?",
+    answer: "Jonathan Joestar",
     options: [
-      "Albert Einstein",
-      "Marie Curiee",
-      "Stephen Hawking",
-      "Linus Pauling"
+      "Joshef Joestar",
+      "Jonathan Joestar",
+      "Jotaro kujo",
+      "Jonatan joestar"
     ]
   },
   {
     numb: 2,
-    question: "Qual o país mais novo do mundo?",
-    answer: "Sudão do Sul",
+    question: "Qual o nome do vilão da primeira temporada?",
+    answer: "Dio Brando",
     options: [
-      "Timor Lestet",
-      "Montenegro",
-      "Sudão do Sul",
-      "Kosovo"
+      "Dio Brando",
+      "Diego Brando",
+      "Giorno Giovanna",
+      "Zepelin"
     ]
   },
   {
     numb: 3,
-    question: "Qual o nome do evento astronômico responsável pelo dia mais longo do ano?",
-    answer: "Solstício de verão",
+    question: "Qual o nome do stande de Jotaro Kujo?",
+    answer: "Star Platinun",
     options: [
-      "Equinócio de outono",
-      "Solstício de inverno",
-      "Solstício de verão",
-      "Solstício de outono"
+      "Made in Heavem",
+      "Crazy Daimond",
+      "Star Platinun",
+      "O Mundo"
     ]
   },
   {
     numb: 4,
-    question: "Quantos pares de costelas um ser humano, normalmente, possui?",
-    answer: "12",
+    question: "Qual o nome da primeira abilidade aprendida no anime?",
+    answer: "Hamom",
     options: [
-      "12",
-      "11",
-      "14",
-      "13"
+      "Hamom",
+      "Artes vampioricas",
+      "Stands",
+      "Spin"
     ]
   },
   {
     numb: 5,
-    question: "Quais planetas do sistema solar realizam seu movimento de rotação em sentido horário?",
-    answer: "Vênus e Urano",
+    question: "Qual o nome da primeira abilidade do Star platinun?",
+    answer: "Baragem",
     options: [
-      "Saturno e Júpiter",
-      "Vênus e Urano",
-      "Terra e Marte",
-      "Mercúrio e Saturno"
+      "Baragem",
+      "O Mundo",
+      "Retorno ao zero",
+      "Cura"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
